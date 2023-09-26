@@ -1,0 +1,13 @@
+.Titulo{
+    font-size: 50px;
+    color: #F0F2EB;
+    margin-bottom: 4%;
+    text-decoration: underline;
+}
+.Parrafos{
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 25%;
+    font-size: 20px;
+    color: #F0F2EB;
+}
